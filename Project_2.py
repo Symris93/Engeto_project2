@@ -52,11 +52,11 @@ input("Press \"Enter\" to start the game!")
 while True:
     print(f"""--------------------------------------------
 +---+---+---+
-|{game("1",game_progress)}|{game("2",game_progress)}|{game("3",game_progress)}|
+|{game("7",game_progress)}|{game("8",game_progress)}|{game("9",game_progress)}|
 +---+---+---+
 |{game("4",game_progress)}|{game("5",game_progress)}|{game("6",game_progress)}|
 +---+---+---+
-|{game("7",game_progress)}|{game("8",game_progress)}|{game("9",game_progress)}|
+|{game("1",game_progress)}|{game("2",game_progress)}|{game("3",game_progress)}|
 +---+---+---+
 ============================================""")
     #Win
